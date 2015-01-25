@@ -1,0 +1,34 @@
+{
+  "name": "get-prop-stream",
+  "version": "1.0.0",
+  "description": "Takes in objects and outputs a certain property from them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RangerMauve/get-prop-stream"
+  },
+  "keywords": [
+    "prop",
+    "property",
+    "stream",
+    "decorator",
+    "get"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/get-prop-stream/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/get-prop-stream",
+  "dependencies": {
+    "get-prop": "0.0.4",
+    "through2-map": "^1.4.0"
+  },
+  "devDependencies": {
+    "stdout": "0.0.3",
+    "stream-array": "^1.0.1"
+  }
+}
